@@ -8,4 +8,4 @@ In this project, we were asked to fulfill four criteria:
 The program has been written for ATMega64 microcontroller using CodeVisionAVR in C language. Moreover, the simulation file is included and be run using Proteus.
 
 ## Simulation Schematic
-<img src="Diagram.png" alt="Sim" width="400" height="300"/>
+<img src="Diagram.PNG" alt="Sim" width="400" height="300"/>
